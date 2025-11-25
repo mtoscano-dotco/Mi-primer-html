@@ -1,0 +1,16 @@
+h1 {
+
+    color: blueviolet;
+}
+
+p {
+
+    color: #0cbebe;
+}
+
+.lista-mascotas {
+
+    margin-bottom: 10px;
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
